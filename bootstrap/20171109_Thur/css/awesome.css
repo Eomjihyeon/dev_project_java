@@ -1,0 +1,10 @@
+body {
+    background: url(../img/grass.jpg) no-repeat center fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.myfont {
+    color: black;
+    font-family: 'Cinzel', serif;
+}
