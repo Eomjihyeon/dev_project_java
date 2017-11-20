@@ -1,0 +1,28 @@
+//클래스는 .
+.btn1_div {
+    height: 50px;
+    background-color: red;
+    text-align:center;
+}
+
+.btn1 {
+    width :200px;
+    height: 50px;
+    background-color:green;
+    margin-top:20px;
+    text-align:right;
+    font-size:20px;
+
+}
+
+.input {
+font-size : 20 px;
+}
+
+.a_css {
+    color:red;
+     background-color:yellow;
+    text-decoration:underline ;
+    cursor: pointer;
+
+}
