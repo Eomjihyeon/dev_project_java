@@ -21,7 +21,7 @@ body {
     width: 1000px;
     top:50%;
     left:50%;
-    transform : translate(-50%, -50%);/**/
+    transform : translate(-50%, -50%);/*센테어맞추는 탑,레프트*/
     box-shadow : 0px 10px 50px rgba(0,0,0, 0.3);
     overflow:hidden;
     position: absolute;
@@ -30,7 +30,7 @@ body {
 
 
 .clearfix::after {
-    content: "";
+    content: ""; /*자식들 이후에 처리 */
     display:table ;
 }
 
@@ -71,7 +71,7 @@ body {
     margin-bottom : 130px;
 
 }
-.active .player-name::after {
+.active .player-name::after { /*빨간색 점 생기는것*/
     content: "\2022";
     font-size: 47px;
     position :absolute;
@@ -116,8 +116,8 @@ button {
     transition: background-color 0.3s, color 0.3s ;
 }
 
-button:hover {font-weight:600;}
-button:hover i {margin-right:20px;}
+button:hover {font-weight:600;} /*글씨크기*/
+button:hover i {margin-right:20px;} /*new game i를 어떻게 반은할것인지 간격 변경*/
 button:focus {outline:none;}
 
 .btn-new {top:45px;}
@@ -156,3 +156,11 @@ i {
     height:100px;
     bpx-shadow : 0px 10px 60px rgba(0,0,0, 0.10);
     }
+
+    .winner{
+        background-color:#f7f7f7;
+        }
+    .winner .player-name{ /*띄어쓰기*/
+        font-weight:300;
+        color:#eb4d4d;
+        }

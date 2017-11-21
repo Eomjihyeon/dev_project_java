@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <link rel ="stylesheet"  type="text/css" href ="./css/form.css">
+    <script type="text/javascript" src="./js/form.js"></script>
+
+</head>
+<body>
+<div>
+    <form method="POST" action="server_send.py" name="frm" onsubmit="return check()">
+        <div class="div_height">
+            가입신청서는 *란은 필수
+         </div>
+        <div class="div_height">
+            <input type="text" name="name" id="name"  size="15"  placeholder="이름">*
+            <p id="name_error" class="p_error"></p>
+        </div>
+        <div class="div_height">
+            <input type="text" name="id" id="id" placeholder="아이디">*
+        </div>
+        <div class="div_height">
+            <input type="password" name="password" id="paswword" placeholder="비밀번호">*
+        </div>
+           <div class="div_height">
+            <input type="password" name="password2" id="paswword2" placeholder="비밀번호 확인">*
+        </div>
+        <div class="div_height">
+            <input type="submit" value="회원가입">
+            <input type="reset"  value="다시쓰기">
+        </div>
+        </form>
+</div>
+</body>
+</html>
+
+
