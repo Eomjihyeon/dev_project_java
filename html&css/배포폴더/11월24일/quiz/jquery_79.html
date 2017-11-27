@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>quiz79</title>
+    <script src="jquery-3.2.1.js"></script>
+    <script>
+    $(document).ready(function() {
+        var $list = $('li');
+
+        var href=['http://www.naver.com', 'http://www.daum.net', 'http://www.google.com']
+        $list.each(function(index){
+           $(this).html('<a>' + link_site[index] + '</a>');
+        });
+
+
+    });
+    </script>
+</head>
+<body>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+</body>
+</html>

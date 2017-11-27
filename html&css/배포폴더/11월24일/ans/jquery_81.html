@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>quiz81</title>
+    <style>
+        div{
+            width:20px;
+            height:20px;
+            border:1px solid black;
+        }
+        .select0{
+            background: pink;
+        }
+        .select1{
+            background: black;
+        }
+        .select2{
+            background: yellow;
+        }
+    </style>
+    <script src="jquery-3.2.1.js"></script>
+    <script>
+    $(document).ready(function() {
+        var len = $('div').length;
+        var $el = $('div');
+        for (var i=0; i < len; i++){
+            var j = i % 3;
+            $el.eq(i).addClass('select'+j);
+        }
+    });
+    </script>
+</head>
+<body>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+</body>
+</html>

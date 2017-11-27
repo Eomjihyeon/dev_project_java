@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>quiz72</title>
+    <script src="jquery-3.2.1.js"></script>
+    <script>
+     $(document).ready(function() {
+         $('div').eq(0).find('ul li').filter(':odd').text('hello world');
+         $('div').eq(1).find('ul li').filter(':even').text('안녕하세요');
+     });
+    </script>
+</head>
+<body>
+    <div>
+        <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+    <div>
+        <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+
+</body>
+</html>

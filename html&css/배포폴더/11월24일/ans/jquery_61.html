@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>quiz61</title>
+    <style>
+        .test{
+            width:400px;
+            height: 400px;
+            background-color:pink;
+        }
+
+        #one{
+            display: none;
+            background-color: blue;
+        }
+
+    </style>
+    <script src="jquery-3.2.1.js"></script>
+    <script>
+     $(document).ready(function() {
+         $('#one').show(1000);
+         $('#two').hide(1000);
+     });
+    </script>
+</head>
+<body>
+    <div class="test" id="one">hello world one</div>
+    <div class="test" id="two">hello world two</div>
+</body>
+</html>

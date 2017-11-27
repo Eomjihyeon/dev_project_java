@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>quiz50</title>
+    <style>
+        body{
+            font-size: 15px;
+        }
+        div, p, ul, li{
+            border:1px #eee solid;
+            margin:10px;
+        }
+        ul{
+            padding:10px;
+        }
+    </style>
+    <script src="jquery-3.2.1.js"></script>
+    <script>
+        $(document).ready(function(){
+            //여기에 문제를 푸세요
+            $('ul.menu').parents('.page').css('border','4px solid #f00');
+        }
+    );
+    </script>
+
+</head>
+<body>
+    <div id="samplePage" class="page">
+        샘플페이지(div, id=samplePage, class=page)
+        <div id="header" class="test1">
+            헤더 영역(div, id=header, class=test1)
+        </div>
+        <div id="content" class="sample-content">
+            노드 찾기(div, id=content, class=sample-content)
+
+            <ul class="menu">
+                일반 노드 찾기(li, class=menu)
+                <li>id로 찾기(li)</li>
+                <li class="select">class로 찾기(li, class=select)</li>
+                <li>class로 찾기</li>
+                <li class="test1">class로 찾기(li, class=test1)</li>
+            </ul>
+            <div>
+                자식 노드 찾기(div,class=content-data)
+                <p class="test1">1. 모든 자식 노드 찾기(p, class=test1)</p>
+                <p>1. 모든 자식 노드 찾기</p>
+                <p class="test2">1. 모든 자식 노드 찾기 (p, class=test2)</p>
+            </div>
+
+        </div>
+        <div id="footer">
+            <p>푸터 영역(footer, id=footer)</p>
+        </div>
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>quiz59</title>
+    <style>
+        body{
+            font-size: 15px;
+        }
+        div, p, ul, li{
+            border:1px #eee solid;
+            margin:10px;
+        }
+        ul{
+            padding:10px;
+        }
+    </style>
+    <script src="jquery-3.2.1.js"></script>
+    <script>
+        $(document).ready(function(){
+            //여기에 문제를 푸세요
+            var $el = ;
+            var $list = ;
+            var ind = ;
+            alert('select의 index: ' + ind);
+        }
+    );
+    </script>
+
+</head>
+<body>
+    <div id="samplePage" class="page">
+        샘플페이지(div, id=samplePage, class=page)
+        <div >
+            헤더 영역(div)
+             <ul>
+                일반 노드 찾기
+                <li class="select">(li, class=select)</li>
+                <li>class로 찾기</li>
+             </ul>
+        </div>
+        <div>
+            노드 찾기(div)
+             <div>
+                자식 노드 찾기(div,class=content-data)
+                <p class="test1">1. 모든 자식 노드 찾기(p, class=test1)</p>
+                <p>1. 모든 자식 노드 찾기</p>
+                <p class="test2">1. 모든 자식 노드 찾기 (p, class=test2)</p>
+             </div>
+             <ul>
+                일반 노드 찾기
+                <li>id로 찾기(li)</li>
+                <li class="select">class로 찾기(li, class=select)</li>
+                <li>class로 찾기</li>
+                <li class="test1">class로 찾기(li, class=test1)</li>
+            </ul>
+
+        </div>
+        <div>
+            <p>푸터 영역(footer)</p>
+        </div>
+
+    </div>
+</body>
+</html>
