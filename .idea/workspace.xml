@@ -2,194 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1d37ec0-de63-4d00-a79f-76079941bb95" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript2/1123/css/example.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript2/1123/example.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript2/1123/js/example.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript2/1123/this.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript2/1123/vs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript2/1124/emample.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript2/1127/css/animate/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript2/1127/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript2/1127/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript2/1127/js/index.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월16일-20171115T234259Z-001/11월16일/Ambition테마.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월16일-20171115T234259Z-001/11월16일/ambition-img/boating.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월16일-20171115T234259Z-001/11월16일/ambition-img/featured-page.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월16일-20171115T234259Z-001/11월16일/ambition-img/morning.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월16일-20171115T234259Z-001/11월16일/ambition-img/mountain.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월16일-20171115T234259Z-001/11월16일/ambition-img/promotional-bar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월16일-20171115T234259Z-001/11월16일/ambition-img/service-icon-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월16일-20171115T234259Z-001/11월16일/ambition-img/service-icon-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월16일-20171115T234259Z-001/11월16일/ambition-img/service-icon-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월16일-20171115T234259Z-001/11월16일/ambition-img/service-icon-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월16일-20171115T234259Z-001/11월16일/ambition-img/service-icon-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월16일-20171115T234259Z-001/11월16일/ambition-img/service-icon-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월16일-20171115T234259Z-001/11월16일/ambition-img/testimonial-image.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월16일-20171115T234259Z-001/11월16일/ambition테마에 CSS 적용하기.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월16일-20171115T234259Z-001/11월16일/워드프레스 기본설정.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월16일-20171115T234259Z-001/11월16일/워드프레스 테마와 플러그인.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월16일-20171115T234259Z-001/11월16일/워드프레스설치_XAMPP.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월16일-20171115T234259Z-001/11월16일/웹 페이지 기획(1회차).pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월16일-20171115T234259Z-001/11월16일/웹기획_산출물_11 .ods" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/1_1웹 환경에 대한 이해.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/2_1 html기초.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/2_2 html기초_이미지.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/ans21/ans22.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/ans21/home.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/ans21/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/ans21/quiz21.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/ans_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/ans_10.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/ans_11.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/ans_12.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/ans_12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/ans_13.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/ans_14.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/ans_15.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/ans_16.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/ans_17.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/ans_18.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/ans_19.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/ans_20.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/ans_3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/ans_4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/ans_5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/ans_6.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/ans_7.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/ans_8.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/ans_9.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/daum.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/google.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/home.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/naver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/answer/quiz_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/quiz/daum.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/quiz/google.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/quiz/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/quiz/naver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/quiz/quiz_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/quiz/quiz_10.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/quiz/quiz_11.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/quiz/quiz_12.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/quiz/quiz_13.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/quiz/quiz_14.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/quiz/quiz_15.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/quiz/quiz_16.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/quiz/quiz_17.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/quiz/quiz_18.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/quiz/quiz_19.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/quiz/quiz_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/quiz/quiz_20.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/quiz/quiz_3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/quiz/quiz_4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/quiz/quiz_5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/quiz/quiz_6.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/quiz/quiz_7.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/quiz/quiz_8.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월6/11월6일/quiz/quiz_9.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/2_3 html기초 폼.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/CSS 기초 2.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/CSS 기초.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_basic1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_basic1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_basic2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_basic2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_basic3.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_basic3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_basic3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_basic_exam_ad.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_basic_exam_ad_problem.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_element_selector.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_elements_width.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_font1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_font2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_font3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_font4_webfont.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_selector1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_selector1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_selector2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_selector2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_selector3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_selector3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_selector_ad1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_selector_ad1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_selector_ad2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_selector_ad2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_selector_ad3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_selector_ad3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_selector_ad_all.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_selector_ad_all.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_selector_all.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/answer/css_selector_all.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/quiz21/css_quiz/css_basic1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/quiz21/css_quiz/css_basic2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/quiz21/css_quiz/css_basic3.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/quiz21/css_quiz/css_basic3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/quiz21/css_quiz/css_selector1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/quiz21/css_quiz/css_selector2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/quiz21/css_quiz/css_selector3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/quiz21/css_quiz/css_selector_ad1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/quiz21/css_quiz/css_selector_ad2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/quiz21/css_quiz/css_selector_ad_all.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/quiz21/css_quiz/css_selector_all.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/quiz21/css_quiz2/css_boxmodel1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/quiz21/css_quiz2/css_boxmodel2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/quiz21/css_quiz2/css_boxmodel3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/quiz21/css_quiz2/css_boxmodel4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/quiz21/css_quiz2/css_boxmodel5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/quiz21/css_quiz2/css_font1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/quiz21/css_quiz2/css_font2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/quiz21/css_quiz2/css_font3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/quiz21/css_quiz2/css_font4_webfont.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/quiz21/home.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/quiz21/quiz21.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월7일/quiz21/quiz22.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월8일-20171115T234257Z-001/.idea/11월8일-20171115T234257Z-001.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월8일-20171115T234257Z-001/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월8일-20171115T234257Z-001/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월8일-20171115T234257Z-001/11월8일/CSS 레이아웃-2(position).pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월8일-20171115T234257Z-001/11월8일/CSS 레이아웃.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월8일-20171115T234257Z-001/11월8일/CSS 미디어쿼리.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월8일-20171115T234257Z-001/11월8일/ans/css_boxmodel_ans4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월8일-20171115T234257Z-001/11월8일/ans/css_boxmodel_ans5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월8일-20171115T234257Z-001/11월8일/ans/css_boxmodel_answer1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월8일-20171115T234257Z-001/11월8일/ans/css_boxmodel_answer2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월8일-20171115T234257Z-001/11월8일/ans/css_boxmodel_answer3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월8일-20171115T234257Z-001/11월8일/ans/css_float_ans1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월8일-20171115T234257Z-001/11월8일/ans/css_float_ans2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월8일-20171115T234257Z-001/11월8일/ans/css_float_ans3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월8일-20171115T234257Z-001/11월8일/ans/css_mediaquery_ans1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월8일-20171115T234257Z-001/11월8일/ans/css_position_ans1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월8일-20171115T234257Z-001/11월8일/ans/css_position_ans2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월8일-20171115T234257Z-001/11월8일/quiz/css_float/css_float_exam1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월8일-20171115T234257Z-001/11월8일/quiz/css_mediaquery/css_mediaquery_exam1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월8일-20171115T234257Z-001/11월8일/quiz/css_position/css_position_exam1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/11월8일-20171115T234257Z-001/11월8일/quiz/css_position/css_position_exam2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/quiz-20171117T061601Z-001.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/quiz-20171117T061601Z-001/quiz/JQUERY 기초.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/quiz-20171117T061601Z-001/quiz/jquery-3.2.1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/quiz-20171117T061601Z-001/quiz/jquery-3.2.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/quiz-20171117T061601Z-001/quiz/jquery_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/quiz-20171117T061601Z-001/quiz/jquery_10.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/quiz-20171117T061601Z-001/quiz/jquery_11.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/quiz-20171117T061601Z-001/quiz/jquery_12.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/quiz-20171117T061601Z-001/quiz/jquery_13.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/quiz-20171117T061601Z-001/quiz/jquery_14.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/quiz-20171117T061601Z-001/quiz/jquery_15.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/quiz-20171117T061601Z-001/quiz/jquery_16.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/quiz-20171117T061601Z-001/quiz/jquery_17.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/quiz-20171117T061601Z-001/quiz/jquery_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/quiz-20171117T061601Z-001/quiz/jquery_3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/quiz-20171117T061601Z-001/quiz/jquery_4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/quiz-20171117T061601Z-001/quiz/jquery_5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/quiz-20171117T061601Z-001/quiz/jquery_6.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/quiz-20171117T061601Z-001/quiz/jquery_7.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/quiz-20171117T061601Z-001/quiz/jquery_8.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/quiz-20171117T061601Z-001/quiz/jquery_9.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/quiz-20171117T061601Z-001/quiz/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html&amp;css/quiz-20171117T061601Z-001/quiz/script1.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript2/1127/css/style.css" afterPath="$PROJECT_DIR$/javascript2/1127/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript2/1127/index.html" afterPath="$PROJECT_DIR$/javascript2/1127/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -215,8 +30,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/javascript2/1127/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="19">
-                  <caret line="154" column="30" lean-forward="false" selection-start-line="154" selection-start-column="30" selection-end-line="154" selection-end-column="30" />
+                <state relative-caret-position="392">
+                  <caret line="88" column="25" lean-forward="false" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="25" />
                   <folding />
                 </state>
               </provider>
@@ -225,8 +40,8 @@
           <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/README.md">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <state relative-caret-position="38">
+                  <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="11" />
                   <folding />
                 </state>
               </provider>
@@ -235,8 +50,8 @@
           <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/javascript2/1127/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="133">
-                  <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+                <state relative-caret-position="540">
+                  <caret line="139" column="0" lean-forward="true" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -348,9 +163,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="339" />
-    <option name="y" value="195" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="655" />
+    <option name="y" value="147" />
     <option name="width" value="1000" />
     <option name="height" value="772" />
   </component>
@@ -559,7 +374,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="339" y="195" width="1000" height="772" extended-state="1" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -963,26 +778,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript2/1127/css/style.css">
+    <entry file="file://$PROJECT_DIR$/javascript2/1127/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+        <state relative-caret-position="392">
+          <caret line="88" column="25" lean-forward="false" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript2/1127/index.html">
+    <entry file="file://$PROJECT_DIR$/javascript2/1127/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="154" column="30" lean-forward="false" selection-start-line="154" selection-start-column="30" selection-end-line="154" selection-end-column="30" />
+        <state relative-caret-position="540">
+          <caret line="139" column="0" lean-forward="true" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="38">
+          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="11" />
           <folding />
         </state>
       </provider>
