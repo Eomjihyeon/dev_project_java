@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Title</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=divice-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>responsive website</title>
     <!--farcon-->
 
@@ -18,11 +18,16 @@
     <link rel="shortcut icon" href="./img/favicon.ico">
     <!--animante css-->
     <link rel="stylesheet" href="./css/animate/animate.css">
+    <!-- manific-popup css-->
+    <link rel="stylesheet"  href="./css/magific-popup/magnific-popup.css">
+    <!--owl carousel css -->
+    <link rel="stylesheet" href="./css/owl-carousel/owl.carousel.min.css">
+    <link rel="stylesheet" href="./css/owl-carousel/owl.theme.default.min.css">
     <!-- style css-->
      <link rel ="stylesheet" href ="./css/style.css">
 </head>
 <body>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
 <!---<h1>lorem ipsum<</h1>
 <div class="container">
     <div class="row">
@@ -67,7 +72,7 @@
                 <div class="col-md-3 col-3">content 1</div>
                <div class="col-md-3 col-4">content 1</div>
         </div>
-    </div> --->
+    </div>
     <!--home-->
     <section id ="home">
         <div id="home-cover" class="bg-parallax animated fadeIn">
@@ -85,16 +90,17 @@
         </div>
     </section>
 
-    <!--survice -->
+    <!--service -->
     <section id="services">
         <div class="content-box">
-             <div class="content-title">
+             <div class="content-title wow fadeInUp"
+                     data-wow-duration="1s" data-wow-delay=".5s">
                    <h3>service</h3>
                  <div class="content-title-underline"></div>
             </div>
             <div class="container">
-                <div class="row">
-                     <div class="col-md-4"> <!--4cm 3칸 총 12센치-->
+                <div class="row wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s"><!--tr이row-->
+                     <div class="col-md-4 col-sm-6"> <!--4cm4개가 합친개념, 3칸 총 12센치-->
                         <div class="service-item">
                             <div class="service-item-icon">
                                 <i class="fa fa-paint-brush fa-3x"></i>
@@ -178,6 +184,245 @@
             </div>
         </div>
     </section>
+    <!--about-->
+    <section id="about">
+
+        <!--about right side-->
+        <div id="about-bg-diagonal" class="bg-parallax">
+        </div>
+
+        <!--about left side-->
+        <div class="container"> <!--flu는 전채-->
+            <div class="row">
+                <div class="col-md-4"> <!--전체가 12개 크기는 4개정도사이즈 -->
+                    <div id="about-content-box">
+                        <div id="about-content-box-outer">
+                            <div id="about-content-box-inner">
+
+                                <div class="content-title wow animated fadeInDown" data-wow-duration="1s" data-wow-delay=".5s">
+
+                                    <h3>About ITCOOP</h3>
+                                    <div class="content-title-underline"></div>
+                                </div>
+
+                                <div id="about-desc" class="wow animated fadeInDown" data-wow-duration="1s" data-wow-delay=".5s">
+                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type</p>
+                                </div>
+                                <div id="about-btn" class="wow animated fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">">
+                                    <a class="btn btn-lg btn-general btn-blue" href="#work" role="button">our work</a>
+                                </div>
+
+                            </div>
+                        </div><!--<div id="about-content-box-outer">닫기는 선-->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+    <section id="work">
+        <div class="content-box">
+            <div class="content-title content-title wow animated fadeInDown" data-wow-duration="1s" data-wow-delay=".5s"">
+                <h3>our work</h3>
+                <div class="content-title-underline"></div>
+            </div>
+        </div>
+
+        <div class="container-fluid">
+
+            <div class="row no-gutters">
+                <div class="col-md-3">
+                    <div class="img-wrapper">
+                        <a href="./img/work/1.jpg">
+                            <img src="./img/work/1.jpg" class="img-fluid trans"  alt="work">
+                        </a>
+                    </div>
+                </div>
+                                                    <!--3개짜ㅣ리가 붙어ㅣㅆ는 4개불럭-->
+                <div class="col-md-3">
+                    <div class="img-wrapper">
+                    <a href="./img/work/2.jpg">
+                        <img src="./img/work/2.jpg" class="img-fluid" alt="work">
+                    </a>
+                </div></div>
+                <div class="col-md-3">
+                    <div class="img-wrapper">
+                    <a href="./img/work/3.jpg">
+                        <img src="./img/work/3.jpg" class="img-fluid" alt="work">
+                    </a>
+                </div>
+                </div> <!--6으로 쓰면 6칸을 처먹기때문에 주의할것-->
+                <div class="col-md-3">
+                    <div class="img-wrapper">
+                    <a href="./img/work/4.jpg">
+                        <img src="./img/work/4.jpg" class="img-fluid" alt="work">
+                    </a>
+                </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="img-wrapper">
+                    <a href="./img/work/5.jpg">
+                        <img src="./img/work/5.jpg" class="img-fluid" alt="work">
+                    </a>
+                </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="img-wrapper">
+                    <a href="./img/work/6.jpg">
+                        <img src="./img/work/6.jpg" class="img-fluid" alt="work">
+                    </a>
+                </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="img-wrapper">
+                    <a href="./img/work/7.jpg">
+                        <img src="./img/work/7.jpg" class="img-fluid" alt="work">
+                    </a>
+                </div>
+                </div>
+               <div class="col-md-3">
+                   <div class="img-wrapper">
+                    <a href="./img/work/8.jpg">
+                        <img src="./img/work/8.jpg" class="img-fluid" alt="work">
+                    </a>
+                </div>
+               </div>
+            </div>
+        </div>
+
+    </section>
+
+<!--
+<div class="galley">
+    <a href="./img/work/1.jpg"><h3>image 1</h3></a>
+    <a href="./img/work/1.jpg"><h3>image 1</h3></a>
+</div>
+<div class="gallery">
+    <a href="./img/work/3.jpg"><h3>image 1</h3></a>
+    <a href="http://www.daum.net" class="mfp-iframe"><h3>www.daum.net</h3></a>
+</div> -->
+
+
+<!-- team -->
+<section id="team">
+    <div class="content-box">
+        <div class="content-title wow animated fadeInDown"
+             data-wow-duration="1s" data-wow-delay=".5s">
+            <h3>our</h3>
+            <div class="content-title-underline"></div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div id="team-members" class="owl-carousel owl-theme">
+
+                    <div class="team-member">
+                        <img src="./img/team/team-1.jpg" class="img-fluid"> <!--fluid반응형으로 줄어둠-->
+                        <div class="team-member-info text-center">
+                          <h4 class="team-member-name">Daniel Watrous</h4>
+                          <h4 class="team-member-designation">ceo</h4>
+                          <ul class="social-list">
+                              <li>
+                                  <a href="#" class="social-icon icon-gray">
+                                     <i class="fa fa-facebook"></i>
+                              </a>
+                              </li>
+                              <li><a href="#" class="social-icon icon-gray">
+                                  <i class="fa fa-twitter"></i></a></li>
+                              <li><a href="#" class="social-icon icon-gray">
+                                  <i class="fa fa-google"></i></a></li>
+                          </ul>
+                        </div>
+                    </div>
+
+
+
+                    <div class="team-member">
+                        <img src="./img/team/team-2.jpg" class="img-fluid"> <!--fluid반응형으로 줄어둠-->
+                        <div class="team-member-info text-center">
+                          <h4 class="team-member-name">Daniel Watrous</h4>
+                          <h4 class="team-member-designation">ceo</h4>
+                          <ul class="social-list">
+                              <li>
+                                  <a href="#" class="social-icon icon-gray">
+                                     <i class="fa fa-facebook"></i>
+                              </a>
+                              </li>
+                              <li><a href="#" class="social-icon icon-gray">
+                                  <i class="fa fa-twitter"></i></a></li>
+                              <li><a href="#" class="social-icon icon-gray">
+                                  <i class="fa fa-google"></i></a></li>
+                          </ul>
+                        </div>
+                    </div>
+
+                    <div class="team-member">
+                        <img src="./img/team/team-3.jpg" class="img-fluid"> <!--fluid반응형으로 줄어둠-->
+                        <div class="team-member-info text-center">
+                          <h4 class="team-member-name">Daniel Watrous</h4>
+                          <h4 class="team-member-designation">ceo</h4>
+                          <ul class="social-list">
+                              <li>
+                                  <a href="#" class="social-icon icon-gray">
+                                     <i class="fa fa-facebook"></i>
+                              </a>
+                              </li>
+                              <li><a href="#" class="social-icon icon-gray">
+                                  <i class="fa fa-twitter"></i></a></li>
+                              <li><a href="#" class="social-icon icon-gray">
+                                  <i class="fa fa-google"></i></a></li>
+                          </ul>
+                        </div>
+                    </div>
+
+                    <div class="team-member">
+                        <img src="./img/team/team-4.jpg" class="img-fluid"> <!--fluid반응형으로 줄어둠-->
+                        <div class="team-member-info text-center">
+                          <h4 class="team-member-name">Daniel Watrous</h4>
+                          <h4 class="team-member-designation">ceo</h4>
+                          <ul class="social-list">
+                              <li>
+                                  <a href="#" class="social-icon icon-gray">
+                                     <i class="fa fa-facebook"></i>
+                              </a>
+                              </li>
+                              <li><a href="#" class="social-icon icon-gray">
+                                  <i class="fa fa-twitter"></i></a></li>
+                              <li><a href="#" class="social-icon icon-gray">
+                                  <i class="fa fa-google"></i></a></li>
+                          </ul>
+                        </div>
+                    </div>
+
+
+                    <div class="team-member" > <!--wow를 다운받고, animated fadeInDown" data-wow-duration="1s" data-wow-delay=".5s" 이거는 사진마다 효과주는것 -->
+                        <img src="./img/team/team-5.jpg" class="img-fluid"> <!--fluid반응형으로 줄어둠-->
+                        <div class="team-member-info text-center">
+                          <h4 class="team-member-name">Daniel Watrous</h4>
+                          <h4 class="team-member-designation">ceo</h4>
+                          <ul class="social-list">
+                              <li>
+                                  <a href="#" class="social-icon icon-gray">
+                                     <i class="fa fa-facebook"></i>
+                              </a>
+                              </li>
+                              <li><a href="#" class="social-icon icon-gray">
+                                  <i class="fa fa-twitter"></i></a></li>
+                              <li><a href="#" class="social-icon icon-gray">
+                                  <i class="fa fa-google"></i></a></li>
+                          </ul>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
     <br><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
     <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -187,6 +432,12 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"></script>
     <!--bootstrap javascropt-->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" ></script>
+    <!--WOW-->
+    <script src="./js/wow/wow.min.js"></script> <!--wow쓸때 꼭 넣어줘얗나다 -->
+    <!-- pop js-->
+    <script src="./js/magific-popup/jquery.magnific-popup.min.js"></script>
+    <!-- owl carousel js-->
+    <script src="./js/owl-carousel/owl.carousel.min.js"></script>
     <!--custom javascript-->
   <script src = "./js/index.js"></script>
 </body>
