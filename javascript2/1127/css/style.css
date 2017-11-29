@@ -153,6 +153,9 @@ text-align:center;
 margin: 0 0 30px 0;
 }
 
+.content-title-white h3 {
+    color: #fff;
+}
 
 .content-title-underline {
 width:30px;
@@ -325,6 +328,272 @@ font-size:17px;
 color: #64707b;
 }
 
+.icon-white i {
+color: #fff;
+}
+
 .social-icon i:hover {
 color: #34c6d3; /*아이콘시 색깦ㄹ*/
+}
+
+/*===============================================================
+    Testimonials
+==================================================================*/
+
+#testimonials-cover {
+background-image:url("../img/bg-testimonials.jpg");
+}
+
+#testimonials .content-box{
+background-color: rgba(0,0,0, 0.1);
+}
+
+#customers-testimonials {
+padding: 50px 0;
+}
+
+.testimonial img {
+    max-width:200px;
+    margin: 0 auto 0 auto; /*한가운데로 가게함*/
+}
+
+.testimonial blockquote {
+border: 0;
+font-family: Georgia, sans-serif;
+font-style: italic;
+color: #fff;
+padding: 6px 150px;
+position: relative;
+}
+
+.testimonial blockquote p{
+color: #fff;
+}
+
+.testimonial blockquote::before{
+content : "\201C";
+    top:0;
+    left: 100px;
+}
+
+.testimonial blockquote::after{
+    content: "\201D";
+      top:0;
+      right: 100px;
+}
+
+.testimonial blockquote::before,
+.testimonial blockquote::after {
+    font-size:80px;
+    font-style:normal;
+    line-height: 1;
+    width: 30px;
+    height: 30px;
+    position:absolute;
+}
+
+.testimonial-author p {
+    color: #fff;
+    font-size:17px;
+    }
+
+    .testimonial-author p strong{
+    display: block;
+    }
+
+
+/*===============================================================
+        pricing
+==================================================================*/
+.pricing-box {
+border : 3px solid #34c6d3;
+padding: 50px 0;
+margin: 40px 0;
+}
+
+h4.pricing-title {
+background-color: #34c6d3;
+color: #fff;
+display:inline-block;
+padding: 7px 15px;
+font-size:14px;
+font-weight:700;
+margin: 0 0 30px 0;
+}
+
+h4.pricing-value {
+font-size:60px;
+font-weight:700;
+}
+
+h4.pricing-value sup {
+font-size:28px;
+font-weight: normal;
+vertical-align: super;
+}
+
+ul.pricing-spec { /*글씨정렬*/
+list-style:none;
+padding-left:0;
+margin: 20px 0 60px 0;
+}
+
+ul.pricing-spec li p {
+    font-weight:400;
+    test-transform:uppercase;
+}
+
+.pricing-box-lg {
+padding: 90px 0 ;
+margin: 0;
+background-color: #34c6d3;
+}
+
+.pricing-box-lg h4.pricing-title{
+color:#34c6d3;
+background-color:#fff;
+}
+
+.pricing-box-lg ul.pricing-spec li p {
+color: #fff;
+}
+
+/*===============================================================
+     Stats
+==================================================================*/
+    #stats-cover {
+        background-image:url("../img/bg-stats.jpg");
+    }
+     #stats .content-box{
+      background-color:rgba(0,0,0, 0.4);
+      }
+
+      .stats-item{
+      padding: 100px;
+      }
+
+      .stats-item i {
+      color: #34c6d3;
+      }
+
+      .stats-item h2 {
+      color: #fff;
+      font-size:35px;
+      font-weight:700;
+      margin-top:15px;
+      margin-bottom:1px;
+      }
+
+      .stats-item p {
+      color: #fff;
+      text-transform: uppercase;
+      font-weight:300;
+      margin-top: 0;
+      }
+
+ /*===============================================================
+            clients
+==================================================================*/
+
+/*===============================================================
+           contact
+==================================================================*/
+
+footer {
+    background-color: #5b6269;
+    padding-top:30px;
+    border-top: 5px solid rgba(0,0,0, 0.1);
+    }
+
+    #contact-left h3 {
+    color: #fff;
+    font-size:27px;
+    font-weight:700;
+    }
+
+    #contact-left p {
+    color: #fff;
+    margin-bottom: 30px;
+    }
+
+    #contact-info {
+    background-image:url("../img/world-map.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    }
+
+    address{
+    color: #fff;
+    }
+
+    address strong,
+    #phone-fax-email strong {
+    letter-spacing :1px;
+    }
+
+    #contact-left h3,
+    #contact-right h3 {
+        color: #fff;
+        font-size:27px;
+        font-weight: 700;
+    }
+
+    form {
+    margin-bottom: 20px;
+    }
+
+    form .form-control{
+    background: transparent;
+    border-radius:0;
+    border-color: #fff;
+    font-size:17px;
+    font-weight:300;
+    padding :8px 16px;
+    margin-bottom:20px;
+    color: #fff;
+    }
+
+    /*===============================================================
+                    footer bottom
+==================================================================*/
+
+#footer-bottom {
+background-color:rgba(0,0,0, 0.1);
+padding:30px 0;
+margin-bottom: 60px;
+}
+
+#footer-copyrights p{
+margin:0;
+color:#fff;
+}
+
+#footer-menu {
+float:left;
+color:#fff;
+font-size:16px;
+font-weight:300;
+}
+
+#footer-menu ul {
+list-style:none;
+padding-left:0;
+margin:0;
+}
+
+#footer-menu ul li {
+display:inline-block;
+}
+
+#footer-menu a {
+    color:#fff;
+    font-size:16px;
+    font-weight:300;
+    margin: 0 10px;
+    text-decoration:none;
+}
+
+
+#footer-menu a:hover {
+color:#34c6d3;
 }
